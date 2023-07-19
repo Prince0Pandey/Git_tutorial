@@ -1,3 +1,6 @@
 # Git_tutorial
-this is my first git repository
-just updating the content
+Some Description!
+
+## Subheader
+
+watch tutorial on youtube
